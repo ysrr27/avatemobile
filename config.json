@@ -56,18 +56,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites":"",
     "customurlscheme": "moodlemobile",
     "siteurl": "http://www.tecnologicoedupraxis.com",
     "sitename": "",
